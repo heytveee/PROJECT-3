@@ -66,24 +66,24 @@ img{
     background-color: #69707D;
 }
 .icon-cart{
-    mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-cart.svg);
-        -webkit-mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-cart.svg);
+    mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-cart.svg);
+        -webkit-mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-cart.svg);
     min-width: 22px;
     min-height: 22px;
 }
 .icon-close{
-    mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-close.svg);
-        -webkit-mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-close.svg);
+    mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-close.svg);
+        -webkit-mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-close.svg);
     min-width: 17px;
     min-height: 17px;
 }
 .icon-previous{ 
-    mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-next.svg); 
-        -webkit-mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-next.svg);
+    mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-previous.svg); 
+        -webkit-mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-previous.svg);
 }
 .icon-next{ 
-    mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-next.svg); 
-        -webkit-mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-next.svg); 
+    mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-next.svg); 
+        -webkit-mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-next.svg); 
 }
 .icon-previous,
 .icon-next{
@@ -92,12 +92,12 @@ img{
     min-height: 15px;
 }
 .icon-minus{ 
-    mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-minus.svg); 
-        -webkit-mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-minus.svg); 
+    mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-cart.svg); 
+        -webkit-mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-cart.svg); 
 }
 .icon-plus{ 
-    mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-plus.svg);
-        -webkit-mask-image: url(https://raw.githubusercontent.com/dmaotech/e-commerce-product-page/eec9456cd3ddad60cce620e1be5a9be0719adc4a/images/icon-plus.svg);
+    mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-plus.svg);
+        -webkit-mask-image: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/659282aef7a68508ec23b433a69f8bfcacc169f8/icon-plus.svg);
 }
 .icon-minus,
 .icon-plus{
@@ -130,7 +130,7 @@ img{
     position: relative;
     display: inline-block;
     padding: .1em;
-    background: url(https://safaribags.com/cdn/shop/files/safari_logo_160x.png?v=1701758679) no-repeat; 
+    background: url(https://raw.githubusercontent.com/heytveee/PROJECT-3/main/safari_logo_160x.avif) no-repeat; 
     background-size: contain;
     background-position: left 35%;
 }
